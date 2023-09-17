@@ -1,0 +1,32 @@
+cafe $ 800
+2023-09-01
+Venta
+1
+azucar $ 600,00
+2023-09-15
+Compra
+10
+Manteca $ 400
+2023-09-06
+Compra
+7
+PAN $ 450
+2023-09-15
+Venta
+1
+FIDEOS $ 350
+2023-09-16
+Compra
+9
+Jabon en polvo $ 1200
+2023-08-01
+Venta
+2
+salsa para pizza $ 850
+2023-08-13
+Compra
+6
+yogurt $ 530 
+2023-08-22
+Venta
+2
